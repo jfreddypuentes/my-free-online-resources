@@ -68,8 +68,33 @@ Free Resources to keep updated and learn new things
 
 ### Tech News
 
+1. [news y combinator](https://news.ycombinator.com/)
+
+2. [tech meme](https://www.techmeme.com/)
+
 
 ### Videos and Podcast
 
+1. [py-video](https://pyvideo.org/)
+
+2. [Software Engineering Radio](https://www.se-radio.net/)
+
+3. [Software engineering daily](https://softwareengineeringdaily.com/)
+
+4. [developer apple](https://developer.apple.com/videos/)
+
+5. [imore](https://www.imore.com/debug)
+
+6. [gcp podcast](https://www.gcppodcast.com/post/)
+
 
 ### Other
+
+1. [MIT Open Courseware](https://ocw.mit.edu/index.htm)
+
+2. [Google Cloud Platform Solutions](https://gcp.solutions/)
+
+3. [Stanford Free Courses](https://online.stanford.edu/free-courses)
+
+4. [Rework with google](https://rework.withgoogle.com/) Let’s make work better.
+
