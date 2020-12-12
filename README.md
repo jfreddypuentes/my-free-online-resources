@@ -36,3 +36,40 @@ Free Resources to keep updated and learn new things
 
 8. [perfectly spoken](https://perfectlyspoken.com/)
 
+
+### Books
+
+1. [b-ok](https://b-ok.lat/)
+
+2. [all it ebooks](http://www.allitebooks.org/)
+
+3. [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
+
+4. [open libra](https://openlibra.com/)
+
+5. [Eloquent-JavaScript](http://hectorip.github.io/Eloquent-JavaScript-ES-online/)
+
+6. [R for Data science](https://r4ds.had.co.nz/)
+
+7. [mastering-shiny](https://mastering-shiny.org/action-dynamic.html)
+
+
+
+### Courses
+
+1. [capacitate para el empleo](https://capacitateparaelempleo.org/)
+
+2. [saylor](https://www.saylor.org/)
+
+3. [class-central](https://www.class-central.com/)
+
+4. [sololearn](https://www.sololearn.com/Courses/)
+
+
+### Tech News
+
+
+### Videos and Podcast
+
+
+### Other
