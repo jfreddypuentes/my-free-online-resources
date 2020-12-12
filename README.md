@@ -55,6 +55,8 @@ Free Resources to keep updated and learn new things
 
 8. [ML Compiled](https://ml-compiled.readthedocs.io/en/latest/index.html)
 
+9. [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
+
 
 ### Courses
 
