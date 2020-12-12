@@ -53,6 +53,7 @@ Free Resources to keep updated and learn new things
 
 7. [mastering-shiny](https://mastering-shiny.org/action-dynamic.html)
 
+8. [ML Compiled](https://ml-compiled.readthedocs.io/en/latest/index.html)
 
 
 ### Courses
@@ -86,6 +87,8 @@ Free Resources to keep updated and learn new things
 5. [imore](https://www.imore.com/debug)
 
 6. [gcp podcast](https://www.gcppodcast.com/post/)
+
+7. [Elements of AI](https://course.elementsofai.com/)
 
 
 ### Other
