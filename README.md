@@ -68,6 +68,8 @@ Free Resources to keep updated and learn new things
 
 4. [sololearn](https://www.sololearn.com/Courses/)
 
+5. [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+
 
 ### Tech News
 
