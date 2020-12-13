@@ -105,3 +105,5 @@ Free Resources to keep updated and learn new things
 
 4. [Rework with google](https://rework.withgoogle.com/) Let’s make work better.
 
+5. [Aprende Machine Learning](https://www.aprendemachinelearning.com/)
+
