@@ -82,6 +82,8 @@ Free Resources to keep updated and learn new things
 
 11. [Computer Vision](https://www.youtube.com/watch?v=_6CFi2CO2AI&list=PL8P_Z6C4GcuU4knhhCouJujFZ2tTqU-Ta)
 
+12. [Tabular Data](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2)
+
 
 ### Tech News
 
