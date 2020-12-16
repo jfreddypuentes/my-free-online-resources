@@ -57,6 +57,8 @@ Free Resources to keep updated and learn new things
 
 9. [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 
+10. [Site Reliability Engineering](https://sre.google/workbook/table-of-contents/) - How google does.
+
 
 ### Courses
 
