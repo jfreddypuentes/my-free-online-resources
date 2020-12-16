@@ -70,6 +70,14 @@ Free Resources to keep updated and learn new things
 
 5. [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
+6. [Codecademy](https://www.codecademy.com/catalog)
+
+7. [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+
+8. [Hackr.io](https://hackr.io/)
+
+9. [Elements of AI](https://course.elementsofai.com/)
+
 
 ### Tech News
 
@@ -91,8 +99,6 @@ Free Resources to keep updated and learn new things
 5. [imore](https://www.imore.com/debug)
 
 6. [gcp podcast](https://www.gcppodcast.com/post/)
-
-7. [Elements of AI](https://course.elementsofai.com/)
 
 
 ### Other
