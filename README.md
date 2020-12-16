@@ -78,6 +78,10 @@ Free Resources to keep updated and learn new things
 
 9. [Elements of AI](https://course.elementsofai.com/)
 
+10. [Natural Language Processing](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw)
+
+11. [Computer Vision](https://www.youtube.com/watch?v=_6CFi2CO2AI&list=PL8P_Z6C4GcuU4knhhCouJujFZ2tTqU-Ta)
+
 
 ### Tech News
 
