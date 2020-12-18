@@ -59,6 +59,7 @@ Free Resources to keep updated and learn new things
 
 10. [Site Reliability Engineering](https://sre.google/workbook/table-of-contents/) - How google does.
 
+11. [The Art of Data Science](https://bookdown.org/rdpeng/artofdatascience/)
 
 ### Courses
 
