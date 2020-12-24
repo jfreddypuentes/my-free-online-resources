@@ -20,11 +20,11 @@ Free Resources to keep updated and learn new things
 
 ### English
 
-1. [english-e-reader](https://english-e-reader.net/findbook)
+1. [english-e-reader](https://english-e-reader.net/findbook) - Free online books to read and learn English.
 
-2. [esl-lab](https://www.esl-lab.com)
+2. [esl-lab](https://www.esl-lab.com) - English as a second Language. It contains audio and micro tests.
 
-3. [lyrics training](https://es.lyricstraining.com/)
+3. [lyrics training](https://es.lyricstraining.com/) - Listen to music and complete sentences.
 
 4. [cambridge english](https://www.cambridgeenglish.org/learning-english/activities-for-learners/)
 
@@ -34,7 +34,7 @@ Free Resources to keep updated and learn new things
 
 7. [language tool](https://languagetool.org/es/)
 
-8. [perfectly spoken](https://perfectlyspoken.com/)
+8. [perfectly spoken](https://perfectlyspoken.com/) - English course (Freemium)
 
 9. [Write and Improve](https://writeandimprove.com/)
 
@@ -43,7 +43,7 @@ Free Resources to keep updated and learn new things
 
 ### Books
 
-1. [b-ok](https://b-ok.lat/)
+1. [b-ok](https://b-ok.lat/) - Any book here
 
 2. [all it ebooks](http://www.allitebooks.org/)
 
@@ -75,7 +75,7 @@ Free Resources to keep updated and learn new things
 
 4. [sololearn](https://www.sololearn.com/Courses/)
 
-5. [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+5. [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) - ML by Google
 
 6. [Codecademy](https://www.codecademy.com/catalog)
 
