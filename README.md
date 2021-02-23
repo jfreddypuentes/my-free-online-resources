@@ -97,6 +97,8 @@ Free Resources to keep updated and learn new things
 
 12. [Tabular Data](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2)
 
+13. [The modern JavaScript Tutorial](https://javascript.info/)
+
 
 ### Tech News
 
