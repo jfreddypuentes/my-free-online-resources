@@ -46,6 +46,8 @@ Free Resources to keep updated and learn new things
 
 13. [Audio Engligh](https://www.audioenglish.org)
 
+14. [AgendaWeb](https://agendaweb.org/)
+
 
 ### Books
 
@@ -137,6 +139,8 @@ Free Resources to keep updated and learn new things
 6. [Free Code Camp Website](https://www.freecodecamp.org/learn) - [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) - [Free Code Camp News](https://www.freecodecamp.org/news/)
 
 7. [Refactoring Gurú](https://refactoring.guru/) - Refactoring, design patterns, SOLID principles, and other smart programming topics
+
+8. [Refactoring, Agile, Software Architcture](https://martinfowler.com)
 
 
 
