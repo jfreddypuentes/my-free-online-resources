@@ -73,6 +73,9 @@ Free Resources to keep updated and learn new things
 
 11. [The Art of Data Science](https://bookdown.org/rdpeng/artofdatascience/)
 
+12. [Site Reliability Engineering](https://sre.google/books/)
+
+
 ### Courses
 
 1. [capacitate para el empleo](https://capacitateparaelempleo.org/)
