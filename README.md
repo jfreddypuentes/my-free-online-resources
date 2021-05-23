@@ -75,6 +75,8 @@ Free Resources to keep updated and learn new things
 
 12. [Site Reliability Engineering](https://sre.google/books/)
 
+13. [Programming Notes](https://books.goalkicker.com/)
+
 
 ### Courses
 
