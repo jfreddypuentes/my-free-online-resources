@@ -42,6 +42,14 @@ Free Resources to keep updated and learn new things
 
 11. [Interactive Exercises- Oxford](https://elt.oup.com/student/englishfile/?cc=co&selLanguage=en) 
 
+11. [Interactive Exercises](https://elt.oup.com/student/englishfile/?cc=co&selLanguage=en)
+
+12. [Elllo](https://www.elllo.org/index-levels.htm)
+
+13. [Audio Engligh](https://www.audioenglish.org)
+
+14. [AgendaWeb](https://agendaweb.org/)
+
 
 ### Books
 
@@ -66,6 +74,11 @@ Free Resources to keep updated and learn new things
 10. [Site Reliability Engineering](https://sre.google/workbook/table-of-contents/) - How google does.
 
 11. [The Art of Data Science](https://bookdown.org/rdpeng/artofdatascience/)
+
+12. [Site Reliability Engineering](https://sre.google/books/)
+
+13. [Programming Notes](https://books.goalkicker.com/)
+
 
 ### Courses
 
@@ -92,6 +105,8 @@ Free Resources to keep updated and learn new things
 11. [Computer Vision](https://www.youtube.com/watch?v=_6CFi2CO2AI&list=PL8P_Z6C4GcuU4knhhCouJujFZ2tTqU-Ta)
 
 12. [Tabular Data](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2)
+
+13. [The modern JavaScript Tutorial](https://javascript.info/)
 
 
 ### Tech News
@@ -131,6 +146,8 @@ Free Resources to keep updated and learn new things
 6. [Free Code Camp Website](https://www.freecodecamp.org/learn) - [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) - [Free Code Camp News](https://www.freecodecamp.org/news/)
 
 7. [Refactoring Gurú](https://refactoring.guru/) - Refactoring, design patterns, SOLID principles, and other smart programming topics
+
+8. [Refactoring, Agile, Software Architcture](https://martinfowler.com)
 
 
 
