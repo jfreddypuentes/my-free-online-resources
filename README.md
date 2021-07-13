@@ -48,6 +48,10 @@ Free Resources to keep updated and learn new things
 
 14. [AgendaWeb](https://agendaweb.org/)
 
+15. [Engoo](https://engoo.com/)
+
+16. [IslCollective](https://en.islcollective.com/)
+
 
 ### Books
 
